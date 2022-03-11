@@ -1,4 +1,4 @@
-public class Plusminus {
+public class PlusNegativePositive {
 
 		public static void main(String[] args) {
 			int[] absolutes = {4,7,12};
