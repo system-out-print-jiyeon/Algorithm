@@ -17,11 +17,11 @@ public class PickTwoAndAdd {
 
 class Solution{
 	  public List<Integer> solution(int[] numbers) {
-	      int[] numbers2 = numbers.clone();
+	      int[] compareNum = numbers.clone();
 	      int sum = 0;
 	      HashSet<Integer> set = new HashSet<Integer>();
 	      for(int i =0; i<numbers.length; i++) {
-	    	  for(int j = 1; j < numbers2.length; j++) {
+	    	  for(int j = 1; j < compareNum.length; j++) {
 	    		  if(i != j) {
 	    			  sum = numbers[i] + numbers[j];
 	    			  set.add(sum);
