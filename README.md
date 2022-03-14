@@ -12,6 +12,6 @@
 - [예산](https://github.com/DK2554/lotson-study/blob/master/jiyeon/Algorithm/Budget.java)
 - [문자열 내 p와 y의 개수](https://github.com/system-out-print-jiyeon/Algorithm/blob/main/solution/CountPandY.java)
 - [음양더하기](https://github.com/system-out-print-jiyeon/Algorithm/blob/main/solution/PlusNegativePositive.java)
-
+- [두 개 뽑아서 더하기](https://github.com/system-out-print-jiyeon/Algorithm/blob/main/solution/PickTwoAndAdd.java)
 
 ### 백준
